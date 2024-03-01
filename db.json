@@ -1,0 +1,36 @@
+{
+  "cats": [
+    {
+      "img": "./imagenes/perro5.jpg",
+      "name": "Chester",
+      "telefono": 55533300,
+      "pais": "Perú",
+      "descripcion": "amoroso",
+      "id": "5"
+    },
+    {
+      "img": "./imagenes/perro6.jpg",
+      "name": "Harry",
+      "telefono": 55533300,
+      "pais": "Perú",
+      "descripcion": "saltarín",
+      "id": "6"
+    },
+    {
+      "img": "./imagenes/perro7.jpg",
+      "name": "Marley",
+      "telefono": 55533300,
+      "pais": "Perú",
+      "descripcion": "obediente",
+      "id": "7"
+    },
+    {
+      "img": "./imagenes/perro8.jpg",
+      "name": "Benji",
+      "telefono": 55533300,
+      "pais": "Perú",
+      "descripcion": "travieso",
+      "id": "8"
+    }
+  ]
+}
